@@ -11,19 +11,20 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://demoupdate.apple.com/install/7.4/demoupdate.ipa</string>
+					<string>
+https://drive.usercontent.google.com/download?id=1L5LCf5BZ7OCE0avZ2C6hj0DkTHfxMGSO&export=download&authuser=1&confirm=t&uuid=0562d737-2cbe-483f-bbb3-d481122a78ec&at=AEz70l65f5EvRx2YEtZ6l2B-wmkt:1742067010143</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.apple.ist.demoloop</string>
+				<string>com.SideStore.SideStore</string>
 				<key>bundle-version</key>
 				<string>7.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>DemoLoop</string>
+				<string>SideStore</string>
 			</dict>
 		</dict>
 	</array>
